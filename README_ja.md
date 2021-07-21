@@ -2,7 +2,7 @@
 
 English version [here](./README.md).
 
-sveltejs/template をベースにしたシンプルなサンプルです。
+https://github.com/sveltejs/template をベースにしたシンプルなサンプルです。
 
 ## インストール
 
