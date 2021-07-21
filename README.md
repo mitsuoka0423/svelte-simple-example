@@ -2,7 +2,7 @@
 
 日本語は[こちら](./README_ja.md).
 
-This repository is a slim example based on sveltejs/template.
+This repository is a slim example based on https://github.com/sveltejs/template.
 
 ## Install
 
