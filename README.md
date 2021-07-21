@@ -18,5 +18,5 @@ or
 npx rollup -c
 ```
 
-`public/build` is created.
+`public/build` is created.  
 Open `public/index.html`.
