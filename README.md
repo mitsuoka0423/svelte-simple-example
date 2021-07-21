@@ -19,4 +19,4 @@ npx rollup -c
 ```
 
 `public/build` is created.
-
+Open `public/index.html`.
