@@ -18,4 +18,6 @@ or
 npx rollup -c
 ```
 
-`public/build` が生成されます。
+`public/build` が生成されるのを確認し、  
+`public/index.html`をブラウザで開いてください。
+
