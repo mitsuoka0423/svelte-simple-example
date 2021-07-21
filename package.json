@@ -1,0 +1,29 @@
+{
+  "name": "svelte-simple-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tmitsuoka0423/svelte-simple-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmitsuoka0423/svelte-simple-example/issues"
+  },
+  "homepage": "https://github.com/tmitsuoka0423/svelte-simple-example#readme",
+  "dependencies": {
+    "svelte": "^3.40.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.2",
+    "rollup": "^2.53.3",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-svelte": "^7.1.0"
+  }
+}
