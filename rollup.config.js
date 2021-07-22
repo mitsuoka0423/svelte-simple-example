@@ -5,7 +5,8 @@ import resolve from '@rollup/plugin-node-resolve';
 export default {
 	input: 'src/main.js',
 	output: {
-		name: 'svelte-simple-example',
+		format: 'iife',
+		name: 'svelte_simple_example',
 		file: 'public/build/bundle.js'
 	},
 	plugins: [
